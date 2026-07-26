@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# Build output
+bin/
+obj/
+
+# Logs
+*.log
